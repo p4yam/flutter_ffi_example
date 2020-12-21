@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/payam/Flutter-Projects/flutter_native_code/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/payam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/payam/Flutter-Projects/flutter_native_code/android/app/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "api_util-Debug-armeabi-v7a": {
+      "artifactName": "api_util",
+      "buildCommand": "/home/payam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/payam/Flutter-Projects/flutter_native_code/android/app/.cxx/cmake/debug/armeabi-v7a --target api_util",
+      "abi": "armeabi-v7a",
+      "output": "/home/payam/Flutter-Projects/flutter_native_code/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libapi_util.so"
+    }
+  }
+}

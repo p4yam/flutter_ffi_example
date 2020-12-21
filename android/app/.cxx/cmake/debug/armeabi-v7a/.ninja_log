@@ -1,0 +1,7 @@
+# ninja log v5
+0	13	0	CMakeFiles/native_add.dir/home/payam/Flutter-Projects/flutter_native_code/ios/Classes/native_add.cpp.o	33b417a45388ee21
+13	26	0	/home/payam/Flutter-Projects/flutter_native_code/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	6a6287c8f9a09862
+0	13	0	CMakeFiles/native_add.dir/home/payam/Flutter-Projects/flutter_native_code/ios/Classes/native_add.cpp.o	33b417a45388ee21
+13	32	0	/home/payam/Flutter-Projects/flutter_native_code/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	6a6287c8f9a09862
+0	17	0	CMakeFiles/api_util.dir/home/payam/Flutter-Projects/flutter_native_code/ios/Classes/api_util.cpp.o	3eeb9d6999a5fed5
+17	36	0	/home/payam/Flutter-Projects/flutter_native_code/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libapi_util.so	e84f10c3b9382691

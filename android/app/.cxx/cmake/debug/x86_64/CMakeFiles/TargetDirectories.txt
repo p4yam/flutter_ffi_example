@@ -1,0 +1,3 @@
+/home/payam/Flutter-Projects/flutter_native_code/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/home/payam/Flutter-Projects/flutter_native_code/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/home/payam/Flutter-Projects/flutter_native_code/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/api_util.dir

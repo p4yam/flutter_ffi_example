@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/payam/Flutter-Projects/flutter_native_code/android/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/home/payam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/payam/Flutter-Projects/flutter_native_code/android/app/.cxx/cmake/debug/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"api_util-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "api_util",
+			"buildCommand" : "/home/payam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/payam/Flutter-Projects/flutter_native_code/android/app/.cxx/cmake/debug/arm64-v8a --target api_util",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/home/payam/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/payam/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dapi_util_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/payam/Flutter-Projects/flutter_native_code/ios/Classes/api_util.cpp",
+					"workingDirectory" : "/home/payam/Flutter-Projects/flutter_native_code/android/app/.cxx/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/home/payam/Flutter-Projects/flutter_native_code/build/app/intermediates/cmake/debug/obj/arm64-v8a/libapi_util.so",
+			"toolchain" : "14190932584587090076"
+		}
+	},
+	"toolchains" : 
+	{
+		"14190932584587090076" : 
+		{
+			"cCompilerExecutable" : "/home/payam/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/payam/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}
