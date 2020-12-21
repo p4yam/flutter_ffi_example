@@ -1,4 +1,4 @@
-# flutter_native_code
+# Flutter FFI example
 
 A new Flutter application.
 
